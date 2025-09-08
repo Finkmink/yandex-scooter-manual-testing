@@ -39,16 +39,16 @@
   
   [Требования к веб-приложению](docs/requirements_web_app_1.1.pdf)
 
-  [Макеты веб-приложения](https://www.figma.com/design/vHgTVzFac8zyxhMZ2o4b2m/web?node-id=0-1&p=f&t=e9QHRXz6rdKFOkQu-0)
+  [Макеты веб-приложения](https://www.figma.com/design/vHgTVzFac8zyxhMZ2o4b2m/web?node-id=0-1&p=f)
   
 </details>
 
 <details>
   <summary>Мобильное приложение</summary>
 
-  [Требования к мобильному приложению]()
+  [Требования к мобильному приложению](docs/requirements_mob_app.pdf)
 
-  [Макеты мобильного приложения]()
+  [Макеты мобильного приложения](https://www.figma.com/design/kqLqPvSvjLVLomkdadkAnk/mobile?node-id=0-1&p=f)
   
 </details>
 

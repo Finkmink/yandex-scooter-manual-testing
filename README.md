@@ -57,7 +57,7 @@
 
   [Требования к бэкенду приложения](docs/requirements_backend.pdf)
 
-  [Документация API]()
+  [Документация API](docs/Ez-scooter.pdf)
   
 </details>
 
